@@ -1,6 +1,5 @@
 # Stereo Depth Estimation
 
-**Date:** July 2025  
 **Tech Stack:** Python, OpenCV, NumPy
 
 ## 📌 Overview
